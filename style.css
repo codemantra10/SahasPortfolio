@@ -1,0 +1,34 @@
+#math{
+  width:150px;
+}
+#reading{
+  width:150px;
+}
+#chess{
+  width:150px;
+}
+#piano{
+  width:150px;
+}
+body{
+  text-align:center;
+  background:linear-gradient(#00FF91 0%,#FF00CC 20%,#09FF00 40%,#FF0000 60%,#ECFF00 80%,#8800FF)
+}
+p{
+font-size:30px;
+    color: aqua;
+}
+.links{
+float:left;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;
+    padding-top: 5px;
+    font-size: 20px;
+    font-family:fantasy;
+    color: aqua
+}
+html{
+scroll-behavior:smooth;
+
+}
